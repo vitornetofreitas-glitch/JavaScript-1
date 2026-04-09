@@ -1,6 +1,6 @@
 const precosLivros = [
      {
-        titulo: "JavaScript",
+        titulo: "Minecraft",
         preco: 29
         },
         { 
